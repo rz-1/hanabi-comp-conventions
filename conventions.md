@@ -9,3 +9,6 @@
   * When we are in a clear stalling situation and everyone is quite sure that no player has playables on slot 2 or older:
     * Bombing slot 1 (and/or discarding slot 1 at two strikes) indicates that both teammates have playables on slot 1.
     * Bombing slot 2 (and/or discarding slot 2 at two strikes) indicates that only one teammate has a playable on slot 1.
+
+### Declined OCM Single Card Save
+* If Alice clues Bob's chop directly touching **one** card instead of OCMing it, Bob should chop move the card next to the saved card
