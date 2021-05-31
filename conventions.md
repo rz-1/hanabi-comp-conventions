@@ -12,3 +12,8 @@
 
 ### Declined OCM Single Card Save
 * If Alice clues Bob's chop directly touching **one** card instead of OCMing it, Bob should chop move the card next to the saved card
+
+
+## 3p Omni Conventions (Extras)
+###Critical Omni Saves, O3, O4
+The following [fake save] (!https://hanabi.github.io/docs/variant-specific/dark-omni-gray-pink/#pseudo-5-saves) conventions apply to o2, o3, o4 when they are critial.
