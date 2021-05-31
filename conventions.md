@@ -16,4 +16,4 @@
 
 ## 3p Omni Conventions (Extras)
 ### Critical Omni Saves, O3, O4
-The following [fake save] (!https://hanabi.github.io/docs/variant-specific/dark-omni-gray-pink/#pseudo-5-saves) conventions apply to o2, o3, o4 when they are critial.
+The following [fake save] (https://hanabi.github.io/docs/variant-specific/dark-omni-gray-pink/#pseudo-5-saves) and [fake 5CM/5Pull/5ND] (https://hanabi.github.io/docs/variant-specific/dark-omni-gray-pink/#the-fake-5s-chop-move--the-fake-5-pull--the-fake-5-number-discharge) conventions apply to o2, o3, o4 when they are critial.
